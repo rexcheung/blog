@@ -1,11 +1,21 @@
 #Markdown语法
-[参考文档: ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis)
+[参考文档 ](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#emphasis)
 # 标题1
 ## 标题2
 ### 标题3
 #### 标题4
 ##### 标题5
 ###### 标题6
+
+*斜体*
+**粗体**
+***粗斜体***
+
+==高亮==
+~~中划线~~
+
+C~6~H~12~下~标~
+平方^2^立方^3^
 
 1. First ordered list item
 2. Another item
