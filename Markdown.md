@@ -11,11 +11,7 @@
 **粗体**
 ***粗斜体***
 
-==高亮==
 ~~中划线~~
-
-C~6~H~12~下~标~
-平方^2^立方^3^
 
 1. First ordered list item
 2. Another item
