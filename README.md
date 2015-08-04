@@ -1,2 +1,2 @@
 # blog
-[MarkDown语法](https://github.com/rexcheung/blog/blob/master/Markdown.md)
+[MarkDown语法](https://github.com/lixi0912/README/blob/master/README.md)
